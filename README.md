@@ -2,7 +2,7 @@
 Global Sales Data Analytics
 
 - TECHNOLOGY : DATA ANALYTICS
-- TEAM ID    : PNT2022TMID37544
+- TEAM ID    : 
 - BATCH NO   : 
 
 ## TEAM MEMBERS
