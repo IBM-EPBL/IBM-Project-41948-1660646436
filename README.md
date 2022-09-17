@@ -1,16 +1,16 @@
 # IBM-Project-41948-1660646436
 Global Sales Data Analytics
 
-- TECHNOLOGY : DATA ANALYTICS
-- TEAM ID    : 
-- BATCH NO   : 
+- Technology : DATA ANALYTICS
+- Team ID    : 
+- Batch NO   : B4-4M6E
 
-## TEAM MEMBERS
-- DHARMESHPRASAD R
-- TAMILVANAN N
-- SURIYAPRAKASH G
-- MUTHAMILSELVAN S
-- ARAVINDHAN P
+## Team Members
+- Dharmeshprasad R
+- Tamilvanan N
+- Suriyaprakash G
+- Muthamilselvan S
+- Aravindhan P
 
 ## LINKS
 
