@@ -1,23 +1,42 @@
-# IBM-Project-41948-1660646436
-# **Global Sales Data Analytics**
+# Global Sales Data Analytics
+## IBM-Project-41948-1660646436
 
 - Technology : DATA ANALYTICS
 - Team ID    : PNT2022TMID41225
 - Batch NO   : B4-4M6E
 
 ## Team Members
-```html  
+
 - Dharmeshprasad R
 - Tamilvanan N
 - Suriyaprakash G
 - Muthamilselvan S
 - Aravindhan P
-```
+
 
 ## Assignments
-```html 
+
 - [Assignment_1](https://github.com/IBM-EPBL/IBM-Project-41948-1660646436/tree/main/Assignments/Assignment_1)
 - [Assignment_2](https://github.com/IBM-EPBL/IBM-Project-41948-1660646436/tree/main/Assignments/Assignment_2)
 - [Assignment_3](https://github.com/IBM-EPBL/IBM-Project-41948-1660646436/tree/main/Assignments/Assignment_3)
-```
 
+
+## PROJECT DESIGN & PLANNING
+## Ideation phase
+
+      Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+
+- [x] Literature Survey
+- [x] Problem Statement
+- [x] Empathy Map
+- [x] Brainstorm
+
+##  Design phase
+      In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
+## Project design phase 01
+- [x] Proposed Solution
+- [x] Problem-Solution Fit
+- [x] Solution Architecture
+
+## Project design phase 02
