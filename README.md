@@ -42,3 +42,6 @@ In the design phase, one or more designs are developed, with which the project r
 - [x] Solution Architecture
 
 ## Project design phase 02
+- [x] Data Flow Diagrams and User Stories
+- [x] Solution Requirements
+- [x] Technology Stack
