@@ -46,3 +46,7 @@ In the design phase, one or more designs are developed, with which the project r
 - [x] Data Flow Diagrams and User Stories
 - [x] Solution Requirements
 - [x] Technology Stack
+
+## Project planning phase
+- [x] Milestone & user stories list
+- [x] Sprint delivery plan
