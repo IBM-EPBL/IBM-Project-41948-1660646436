@@ -51,3 +51,10 @@ In the design phase, one or more designs are developed, with which the project r
 ## Project planning phase
 - [x] Milestone & user stories list
 - [x] Sprint delivery plan
+
+## Project Development phase
+- [x] Sprint 1
+- [x] Sprint 2
+- [x] Sprint 3
+- [x] Sprint 4
+
