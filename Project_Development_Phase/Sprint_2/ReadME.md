@@ -4,8 +4,8 @@
 - [x] Connecting schema and table
 - [x] Data visualization
 - [x] Prepare the dataset
-- [x] Data Joins
-- [x] Data calculations
-- [x] Data navigation
-- [x] Data formatting
+- Data Joins
+- Data calculations
+- Data navigation
+- Data formatting
 - [x] Creating Dashboard
