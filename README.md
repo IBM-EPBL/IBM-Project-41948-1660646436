@@ -51,6 +51,7 @@ In the design phase, one or more designs are developed, with which the project r
 ## Project planning phase
 - [x] Milestone & user stories list
 - [x] Sprint delivery plan
+- [x] JIRA  
 
 ## Project Development phase
 - [x] Sprint 1
