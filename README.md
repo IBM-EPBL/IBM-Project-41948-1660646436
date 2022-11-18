@@ -34,7 +34,7 @@ Ideation is the process where you generate ideas and solutions through sessions 
 - [x] Empathy Map
 - [x] Brainstorm
 
-##  Design phase
+##  PROJECT DESIGN PHASE
 In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
 
 ## Project design phase 01
@@ -48,12 +48,12 @@ In the design phase, one or more designs are developed, with which the project r
 - [x] Technology Stack
 - [x] Customer journey map
 
-## Project planning phase
+## PROJECT PLANNING PHASE
 - [x] Milestone & user stories list
 - [x] Sprint delivery plan
 - [x] JIRA  
 
-## Project Development phase
+## PROJECT DEVELOPMENT PHASE
 - [x] Sprint 1
 - [x] Sprint 2
 - [x] Sprint 3
