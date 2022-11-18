@@ -57,4 +57,5 @@ In the design phase, one or more designs are developed, with which the project r
 - [x] Sprint 2
 - [x] Sprint 3
 - [x] Sprint 4
+- [x] Testing
 
